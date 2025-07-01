@@ -35,7 +35,7 @@ struct GitGlossaryView: View {
                 Text(term.title)
             }
         }
-        .navigationTitle("Git Glossary")
+        .navigationTitle("Git Glossary Wesly Acumalaka")
     }
 }
 
